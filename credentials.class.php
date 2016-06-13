@@ -1,12 +1,12 @@
 <?php
-/*
+/**
 Web miner Javascript V1.0<br />
 
 developed by LuckHubbie .
 June 2016 :
 below you can configure the credentials sa mining pool.
 Any pool can be used , but it is advised to use a p2pool to a remote or local mining.
-*/
+**/
 //manual method
    $url = "eu.p2pool.cloud";//the pool link you want to use . for example: eu.p2pool.cloud
    $port = "9332";//This is the port to use. see: https://pt.wikipedia.org/wiki/Proxy or :http://lkhubbie.tk/protocols/
