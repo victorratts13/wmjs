@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+.cont{
+	background-color:rgba(204,51,153,0.5);
+	left:0;
+	right:0;
+	top:0;
+	padding:10px;
+}
+.font{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.body{
+	background:rgba(0,0,0,0.1);
+	font-family:"Courier New", Courier, monospace;
+	text-align:justify;
+}
+a{
+	text-decoration:none;
+	color:rgba(0,51,153,1);
+}
+a:hover{
+	text-decoration:none;
+	color:rgba(0,51,255,1);
+}
